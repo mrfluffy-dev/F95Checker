@@ -5,7 +5,7 @@
 - Nothing
 
 ### Fixed:
-- Nothing
+- Fix launching ELF binaries on Linux (by @WillyJL)
 
 ### Removed:
 - Nothing
